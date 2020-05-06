@@ -5,5 +5,9 @@ The user can post his own post as well
 user can send a message to his friends
 There are options to do comments on post as well
 user can like the post 
-Program made in collaboration in which I developed all the algorithm, with the exception of the UI, which was developed by
+
+********
+This project was  made in collaboration in which I developed all the algorithm, with the exception of the UI, which was developed by
 other collaborators.
+
+*********
